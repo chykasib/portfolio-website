@@ -8,17 +8,8 @@ const projectsData = [
   {
     id: 1,
     title: "HelloTalk-Team Project",
-    description: (
-      <ul>
-        <li>Learning panel for users to level up by finishing levels</li>
-        <li>
-          A community forum for learners to post about queries and learnings
-        </li>
-        <li>
-          Admin Dashboard with multiple features for admins to manage the app
-        </li>
-      </ul>
-    ),
+    description:
+      "Learning panel for users to level up by finishing levels p A community forum for learners to post about queries and learnings p p Admin Dashboard with multiple features for admins to manage the app",
     image: "/images/projects/team.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/the-code-wizards/hello_talk_client/",
@@ -27,15 +18,8 @@ const projectsData = [
   {
     id: 2,
     title: "Keystone Cse Courses",
-    description: (
-      <ul>
-        <li>Single educational learning website.</li>
-        <li>
-          Users can log in via Google, GitHub, or the email password system.
-        </li>
-        <li>If the user login then the user downloads the course outline.</li>
-      </ul>
-    ),
+    description:
+      "Single educational learning website.Users can log in via Google, GitHub, or the email password system.If the user login then the user downloads the course outline.",
     image: "/images/projects/keystone.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/chykasib/learning-client-side-repo",
@@ -44,16 +28,8 @@ const projectsData = [
   {
     id: 3,
     title: "T-phone-reseller-shop",
-    description: (
-      <ul>
-        <li>A Seller login by email and password</li>
-        <li>
-          The user can add and delete any product if the admin verifies the
-          seller Full Website controlled by admin
-        </li>
-        <li>Admin can delete any user or seller.</li>
-      </ul>
-    ),
+    description:
+      "A Seller login by email and password The user can add and delete any product if the admin verifies the seller Full Website controlled by admin Admin can delete any user or seller.",
     image: "/images/projects/resale.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/chykasib/cloud-kitchen-client-repo",
@@ -62,15 +38,8 @@ const projectsData = [
   {
     id: 4,
     title: "Service Review Website",
-    description: (
-      <ul>
-        <li>Users can log in by GitHub, google, or email-password system.</li>
-        <li>
-          If the user logs in, the user can add a review, see his/her review,
-          and delete the review.
-        </li>
-      </ul>
-    ),
+    description:
+      "Users can log in by GitHub, google, or email-password system.If the user logs in, the user can add a review, see his/her review,and delete the review.",
     image: "/images/projects/service.jpg",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/chykasib/cloud-kitchen-client-repo",

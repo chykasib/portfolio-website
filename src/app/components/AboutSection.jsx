@@ -36,8 +36,8 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>programming-hero</li>
-        <li>Google Professional Cloud Developer</li>
+        <li>Programming-Hero</li>
+        <li>DataCamp</li>
       </ul>
     ),
   },
