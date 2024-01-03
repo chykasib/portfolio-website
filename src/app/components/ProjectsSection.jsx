@@ -10,7 +10,7 @@ const projectsData = [
     title: "HelloTalk-Team Project",
     description:
       "Learning panel for users to level up by finishing levels p A community forum for learners to post about queries and learnings p p Admin Dashboard with multiple features for admins to manage the app",
-    image: "/images/projects/team.png",
+    image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/the-code-wizards/hello_talk_client/",
     previewUrl: "https://hello-talk-client.vercel.app/",
@@ -20,7 +20,7 @@ const projectsData = [
     title: "Keystone Cse Courses",
     description:
       "Single educational learning website.Users can log in via Google, GitHub, or the email password system.If the user login then the user downloads the course outline.",
-    image: "/images/projects/keystone.jpg",
+    image: "/images/projects/2.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/chykasib/learning-client-side-repo",
     previewUrl: "https://learning-cse.web.app/",
@@ -30,7 +30,7 @@ const projectsData = [
     title: "T-phone-reseller-shop",
     description:
       "A Seller login by email and password The user can add and delete any product if the admin verifies the seller Full Website controlled by admin Admin can delete any user or seller.",
-    image: "/images/projects/resale.jpg",
+    image: "/images/projects/3.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/chykasib/cloud-kitchen-client-repo",
     previewUrl: "https://t-phone-reseller-shop.web.app/",
@@ -40,7 +40,7 @@ const projectsData = [
     title: "Service Review Website",
     description:
       "Users can log in by GitHub, google, or email-password system.If the user logs in, the user can add a review, see his/her review,and delete the review.",
-    image: "/images/projects/service.jpg",
+    image: "/images/projects/4.jpg",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/chykasib/cloud-kitchen-client-repo",
     previewUrl: "https://rock-cloud-kitchen.web.app/",
